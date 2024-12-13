@@ -1,0 +1,12 @@
+requests
+apache-flink
+airflowctl
+apache-airflow[postgres]
+pandas
+sqlalchemy
+pyarrow
+psycopg2
+great_expectations
+google-cloud
+google-cloud-storage
+python-dotenv
